@@ -1,8 +1,10 @@
+# Comentarios para la parte 2 - Challenge Kaggle
+
 - Despues de que Eric grabara su parte, Andrés encontro un paper que afirmaba nuestra hipótesis de que la forma piramidal de las redes comvolucionales mejora su desempeño .
 
 - El método descrito por Eric es ADMM, Alternating directional multipliers methods o alternating directional method of multipliers.
 
-Sitios de interes:
+# Sitios de interes:
 
 
 - [Sobre ADMM](https://core.ac.uk/download/pdf/4380856.pdf)
