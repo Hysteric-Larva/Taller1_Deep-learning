@@ -21,3 +21,5 @@
 - [ADAM amsgrad](https://openreview.net/pdf?id=ryQu7f-RZ)
 
 - [Sobre Batch Normalization](https://www.dlology.com/blog/one-simple-trick-to-train-keras-model-faster-with-batch-normalization/)
+
+- [Challenge kaggle: clasificacion de elementos Patrimoniales](https://www.kaggle.com/c/taller1ann-usm)
